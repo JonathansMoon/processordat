@@ -62,6 +62,9 @@ Jobs were used to process queues, phpunit for testing and design pattern service
 Examples of hosts configured by default in run.sh, but you can modify them.
 To run the app go to: http://localhost:8003/
 
+## :information_source: Important
+The application fetches the .dat files within the storage/app/public/ in folder and generates the reports within storage/app/public/out
+
 ## :memo: License
 This project is under the MIT license.
 
